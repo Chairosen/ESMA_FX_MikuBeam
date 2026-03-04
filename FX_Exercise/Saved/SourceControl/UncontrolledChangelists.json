@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/Meshes/Cylindre.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/Niagara/NE_Laser.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/Material/M_Laser.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/Niagara/NS_Laser.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3B/NXIY1AMLFBRJIDL7Z26LUC.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/78/RJSMVELOO6N4C329Z94XZJ.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_MikuBeam/ESMA_FX_MikuBeam/FX_Exercise/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/R6/65PRUNQ8R8FYF157I51EPU.uasset",
 				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Fout.uasset",
 				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Fout_System.uasset",
 				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Burst.uasset",
