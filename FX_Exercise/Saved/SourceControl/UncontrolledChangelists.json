@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Fout.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Fout_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NS_Burst.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NE_tu.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NE_tu_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NE_Death.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NS_Fout_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NS_Fout.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NS_Burst.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NE_tu_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NE_tu.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NewFolder/NE_Death.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NS_Fout.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NS_Fout_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NS_Burst.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NE_tu.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NE_tu_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NE_Death.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/M5/5RS64NF5VUSCH5TRIYDFO6.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/26/KS21BTB8SBPYTOQVIAZ5FK.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NS_Location_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NS_tu_System.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NE_Location.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/Cours/NE_LocEvent.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Meshes/Cylindre.uasset",
+				"D:/Chenot_Duncan/Unreal/FX_Exercise/Content/Niagara/NE_Laser.uasset"
+			]
+		}
+	]
+}
